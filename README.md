@@ -4,9 +4,13 @@
 <h2 align="center">Kiyamuda</h2>
 
 <p align="center">
-<a href="https://github.com/95Revolution/Kiyamuda-pwa/blob/master/LICENSE"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://github.com/95Revolution/Kiyamuda-rn/blob/master/LICENSE"><img src="https://img.shields.io/github/license/95Revolution/Kiyamuda-rn.svg" alt="License"></a>
 <a href="https://discord.gg/p9gHBZj"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="Discord"></a>
 <a href="https://join.slack.com/t/95revolution/shared_invite/enQtNDI0NDAxODg3NzgzLTdkMTZmMDM3N2E3MThlZTQwY2EzMjAzMWZjOTYwZGY2MjcyMzE4YmFiMzkzOTk1Yjg4MjI4ZWM1ZTc0NDI1ZWY"><img src="https://img.shields.io/badge/chat-on%20slack-7289da.svg" alt="Slack"></a>
+</p>
+<p align="center">
+<a href="https://travis-ci.com/95Revolution/Kiyamuda-rn/settings"><img src="https://api.travis-ci.com/95Revolution/Kiyamuda-rn.svg?branch=master" alt="Build"></a>
+<a href="https://github.com/95Revolution/Kiyamuda-rn/issues"><img src="https://img.shields.io/github/issues/95Revolution/Kiyamuda-rn.svg" alt="Bugs"></a>
 </p>
 
 # About Kiyamuda
